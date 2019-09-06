@@ -1,3 +1,4 @@
 # silver-fiesta
 K-Means Clustering 
-""" Utilized K-Means Clustering with sample data from datasets folder"""
+
+Implemented K_nearest_neighbor algorithim with euclidean distance similarity metrics for classification. Sample data can be found in the datasets folder.
